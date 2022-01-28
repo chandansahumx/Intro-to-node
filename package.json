@@ -1,6 +1,6 @@
 {
   "name": "nodefiles",
-  "version": "1.0.0",
+  "version": "17.4.0",
   "description": "Simple Node App",
   "main": "hello.js",
   "scripts": {
